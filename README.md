@@ -2,6 +2,7 @@
 
 ## external libraries
 - https://github.com/ishikota/PyPokerEngine
+- https://github.com/ishikota/PyPokerGUI
 
 ## Steps to finnish:
 - implement player which will decide based on deep neural network
