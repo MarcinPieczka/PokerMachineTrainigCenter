@@ -5,7 +5,7 @@
 
 ## Steps to finnish:
 - implement player which will decide based on deep neural network
-- calculate probability of having best cards at the end of game for every player after every round
+- calculate probability of having best cards at the end of game for every player after every      round (from pypokerengine.engine.hand_evaluator import HandEvaluator)
 - NN inputs: (All cach values are downscaled so that biggest stash on table is 1)
   - probability of winning for every player - 10 inputs
   - position at table/no. of players        - 1  input
